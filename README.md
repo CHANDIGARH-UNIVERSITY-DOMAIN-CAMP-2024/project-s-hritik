@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aTJeVIOJ)
+### Motivation
+For a high school athlete, the college sports recruiting process is very cumbersome. There are huge amounts of information to track during the process, such as college and program information, coach interactions, college camps and showcases, official and unofficial visits, high school matches, club matches, and player recruiting profile detailing statistics and accomplishments. It is just like searching for a new job!
+
+### Concept
+The goal of this application is to create a one stop resource for college volleyball recruiting. This application provides college and program information, can track visits, favorite schools, and recruiting progress with each college. It provides players the opportunity to showcase their profile and accomplishments with a profile page. There is also a coach version that helps high school and club coaches organize their recruiting efforts on behalf of their players.
+
+### Technologies Used
+* React! + packages
+* HTML/CSS
+* MDBootstrap
+* JavaScript
+* Express
+* MongoDB
+* Mongoose
+* Node.js
